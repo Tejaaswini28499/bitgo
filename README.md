@@ -7,3 +7,4 @@ Steps to run the project :
 3. Update `chromedriver.exe` path.
 4. Update chrome binary path.
 5. Run the code.
+6. Success
